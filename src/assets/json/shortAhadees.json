@@ -1,0 +1,379 @@
+{     
+  "ahadees_list": [
+  {
+    "name": "40 Short Ahadees",
+    "no": [
+  
+     
+      {
+        "index": 1,
+        "arabic":  " اَلصَّومُ جُنَّةٌ",
+        "english": "Fasting is a sheild",
+        "spanish": "aalssawm junn",
+        "urdu": "روزہ ڑھل ہے",
+        "favorite":false
+
+      }, 
+      {
+        "index": 2,
+        "arabic":  " اَلصَّلَوةُ نُوْرٌ",
+        "english": "Paryers in shiny",
+        "spanish": "aalssalawt nur",
+        "urdu": "نماذ روشنی ہے",
+        "favorite":false
+
+      },
+      {
+        "index": 3,
+        "arabic":  " اَلدِّيْنُ النَّصَيْحَةٌ",
+        "english": "Religion is a reminder",
+        "spanish": "aalddin alnnasayha",
+        "urdu": "دين نصيحت ہے",
+        "favorite":false
+
+      },
+
+     
+     
+      {
+        "index": 4,
+        "arabic":  " كُلُّ بِدْعَةٍ ضَلَالَةٌ",
+        "english": "Every innovation is misguidance",
+        "spanish": "kull bideat dalala",
+        "urdu": "ساری بدعت گمراہی ہے",
+        "favorite":false
+      },
+      {
+        
+        "index": 5,
+        "arabic":  " لَا تَسُبُّوا الدَّهْرَ",
+        "english": "Do not abuse time",
+        "spanish": "la tasubuu alddahr",
+        "urdu": "زمانے کو برا بھلا مت کہو",
+        "favorite":false
+      },
+      {
+        "index": 6,
+        "arabic":  " كُلُّ مَعْرُوْفٍ صَدَقَةٌ",
+        "english": "All good action  blesssing ",
+        "spanish": "kull maeruf sadaqa",
+        "urdu": "ہر اچھی بات صدقہ ہے",
+        "favorite":false
+
+      }, 
+      {
+        "index": 7,
+        "arabic":  " اَلْحَيَآءُ مِنَ الْاِيْمَانِ",
+        "english": "Modisty is faith",
+        "spanish": "hayai minal ayman",
+        "urdu": "حياء ايمان ميں ہے",
+        "favorite":false
+      },
+      {
+        "index": 8,
+        "arabic":  " اَلْغِنَى غِنَى النَّفْسِ ",
+        "english": "Wealth rich soul",
+        "spanish": "aalghinaa ghinaa alnnafs",
+        "urdu": "غنی دل کا غنی ہے",
+        "favorite":false
+      },
+     
+      {
+        "index": 9,
+        "arabic":  " لاَ يَدْخُلُ الْجَنَّةَ قَتَّاتٌ",
+        "english": "Backbiter not enter in paradise",
+        "spanish": "la yadkhul aljannat qattat",
+        "urdu": "جنت ميں چغل خور نہيں داخل ہو گا",
+        "favorite":false
+      },
+      {
+        "index": 10,
+        "arabic":  " لاَ يَدْخُلُ الْجَنَّةَ قَاطِعٌ",
+        "english": "Relation breakar not enter in paradise",
+        "spanish": "la yadkhul aljannat qatie",
+        "urdu": "صلح رحمی قطع کرنے والا جنت ميں داخل نہيں ہو گا",
+        "favorite":false
+      },
+     
+      {
+        "index": 11,
+        "arabic":  " عَمُّـ الرَّجُلِ صِنْوُاَبِيْهِ",
+        "english": "The man's uncle like  his father",
+        "spanish": "eammu alrrajul sinwuaabih",
+        "urdu": "چچا باپ کی مانند ہے ",
+        "favorite":false
+      },
+      {
+        "index": 12,
+        "arabic":  " اَلْمُسْلِمُـ اَخُو الْمُسْلِمِـ",
+        "english": "Muslim Muslim is brother",
+        "spanish": "almuslimu aakhu almuslimi",
+        "urdu": "مسلمان مسلمان بھائ بھائ ہے",
+        "favorite":false
+      },
+      {
+        "index": 13,
+        "arabic":  " اَلطَّهُوْرُ شَطْرُ الْاِيْمَانٍ",
+        "english": "Cleaness is part in faith",
+        "spanish": "aalttahur shatr alaiman",
+        "urdu": "پاکی ايمان کی شاخ ہے",
+        "favorite":false
+      },
+      {
+        "index": 14,
+        "arabic":  " مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
+        "english": "It is none of us cheated",
+        "spanish": "man ghashshana falays minna",
+        "urdu": "ملاوٹ کرنے والا ہم ميں نہيں ہے",
+        "favorite":false
+      },
+      {
+        "index": 15,
+        "arabic":  " اَلظُّلْمُـ ظُلُماَتٌ يَوْمـَ الْقِيَامَـ",
+        "english": "Injustice will be dark in judgement day",
+        "spanish": "aalzzulmu zulumaat yawm alqiama",
+        "chianses": "Do not make tombs as mosques",
+        "urdu": "ظلم قيامت ميں انديھروں ميں ايک اند يھرا ہے",
+        "favorite":false
+      },
+      
+      {
+        "index": 16,
+        "arabic":  " لَاتَتَّخِذُو الْقُبُوْرَ مَسَاجِدُهَا ",
+        "english": "Do not make tombs as mosques",
+        "spanish": "latattakhidhu alqubur masajiduha",
+        "urdu": "قبروں کو مسجد نہ بناؤ",
+        "favorite":false
+      },
+      
+      {
+        "index": 17,
+        "arabic":  " اَحَبُّ الْبِلَادِ اِلَى اللهِ مَسَاجِدُهَا",
+        "english": "Best please in world is mosques",
+        "spanish": "aahabb albilad ailaa allh masajiduha",
+        "urdu": "محبوب جگہ اللہ کے نذديک مساجد ہے",
+        "favorite":false
+      },
+     
+     
+     
+      {
+        "index": 18,
+        "arabic":  " اِذَا لَمْـ تَسْتَحْىِ فَاصْنَعْ مَا شئَتَ",
+        "english": "If no modesty do what you want",
+        "spanish": "aidha lam tastaha fasnae ma shyat",
+        "urdu": "اگر شرم حيا نہ ہو تو جو کرنا ہے کرو",   
+        "favorite":false
+
+      },
+      {
+        "index": 19,
+        "arabic":  " لاَيَرْحَمُـ اللَّه مَنْ لاَّ يَرْحَمُـ النَّاسَ",
+        "english": "Allah will not pity those who do not have mercy on people",
+        "spanish": "laayarhamu alllah man la yarhamu alnnas",
+        "urdu": "جو رحم نہيں کرتا اللہ آس پر رحم نہيں کرتا",
+        "favorite":false
+      },
+      {
+        "index": 20,
+        "arabic":  " اَنَا خَاتَمُ النَّبيِّيْنَ لَا نَبِيَّ بَعْدِىْ",
+        "english": "I am the seal of the prophets, not the prophet after me",
+        "spanish": "ana khatman nabinya la nabiya baydee",
+        "urdu": "محمد (صلو عيلہ وسلم) اللہ کے آخری نبی ہے",
+        "favorite":false
+      },
+     
+      {
+        "index": 21,
+        "arabic":  " اَلدُّنْيَا سِجْنُ الْمُؤْمِنِ وَجَنَّةٌ الْكَافِرِ",
+        "english": "The world is the prison of the believer and the paradise of infidel",
+        "spanish": "aalddunya sijn almumin wajannat alkafir",
+        "urdu": "دنيا قيد خانہ ہے مومن کے ليے اور کافر کے ليے جنت ہے", 
+        "favorite":false
+      },
+     
+    
+     
+      {
+        "index": 22,
+        "arabic":  " مَنْ يُّحْرَمُـ الرِّفْقَ يُحْرَمُـ الْخَيْرَ كُلَّهُ",
+        "english": "He who hates kindness is deprived of all good",
+        "spanish": "man yuhramu alrrifq yuhramu alkhayr kullah",
+        "urdu": "جو نرمی سے محروم وہ ہرخير سے محروم ہے",
+        "favorite":false
+      },
+      {
+        "index": 23,
+        "arabic":  " اَبْغَضُ الرِّجَالٍ عِنْدَاللهِ الاَلَدُّالْخَصِمُ",
+        "english": "The most hated men are Allah, the Most Valiant",
+        "spanish": "aabghad alrrijal eindallh alaaladdualkhasim",
+        "urdu": "ناپسندہ آدمی اللہ کے نذيک  جھگڑالو آدمی ہے",
+        "favorite":false
+      },
+      {
+        "index": 24,
+        "arabic":  " لَا يُلْدَغُ الْمَرْءُ مِنْ جُحْرٍ وَّاحِدٍ مَّرَّتَيْنٍ",
+        "english": "Do not bite one hole twice",
+        "spanish": "la yuldagh almar' min juhr wwahid mmrratayn",
+        "urdu": "انسان کو ايک ہی سوراخ سے دو مرتبہ نہيں ڈسا جا سکتا",
+        "favorite":false
+      },
+      {
+        "index": 25,
+        "arabic":  " اِنَّ مِنْ اَحَبِّكُمْـ اِلَىَّ اَحْسَنُكُمْـ اَخْلاَقًا",
+        "english": "Allah love how has a best maner",
+        "spanish": "ainn min aahabbikum ailayy aahsanukum aakhlaaqana",
+        "urdu": "اللہ آن لوگوں کو پسند کرتا ہے جن کے اخلاق اچھے ہے",
+        "favorite":false
+
+      },
+     
+      {
+        "index": 26,
+        "arabic":  " اَحَبٌّ الْاَعْمَالِ اِلى الله اَدْوَمُهَاوَاِنْ قَلَّ ",
+        "english": "Continues workship is allah like most",
+        "spanish": "aahabb alaaemal aila allah aadwamuhawain qall",
+        "urdu": "اللہ کو وہ اچھا عمل پسند جو ہمشہ کيا جاۓ",
+        "favorite":false
+
+      },
+      {
+        "index": 27,
+        "arabic":  " مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللهُ يَوْمَـ الْقِيَامَةِ",
+        "english": "From the cover of a Muslim Allah will rest on the Day of Resurrection",
+        "spanish": "man satar muslimana satarah allh yawma alqiama",
+        "urdu": "جو مسلمان کے عيب چھپاے گا اللہ اس کے عيب آخرت ميں چھپاے گا",
+        "favorite":false
+      },
+      {
+        "index": 28,
+        "arabic":  " كَفَى بِالْمَرْ كِذْبًا اَنْ يُحَدِّثَ بِكُّلِ مَا سَمِعَ",
+        "english": "It is enough that Palmer falsely happens with everything he hears",
+        "spanish": "kafaa bialmar kidhbana aan yuhaddith bikkul ma samie",
+        "urdu": "انسان کے جھوٹا ہونے کے ليے اتنا کافی ہے کہ جو بات سنے (بغير تحقيق کے) لوگوں سے  بيان کرنا شروع کردے  ",
+        "favorite":false
+      },
+     
+      {
+        "index": 29,
+        "arabic":  " مَا اَسْفَلَ مِنَّ الكَعْبَيْنِ مِنَّ الْاِزَارِ فِى النَّارِ",
+        "english": "What is below the ankles of the Azar in the Fire",
+        "spanish": "Ma asfala minal kabinee minal ezaree minal nar",
+        "urdu": "ٹخنوں کا جو پائجامہ کے نيچے رہے گا وہ جہنم ميں جاۓ گا",
+        "favorite":false
+      },
+     
+     
+      
+      {
+        "index": 30,
+        "arabic":  " لَاتَدْخُلُ الْملَئِكَةُ بَيْتًا فِيْهِ كَلْبٌ اِوْتَصَاوِيْرُ ",
+        "english": "The angel does not enter a house where a dog is an autosweeper",
+        "spanish": "atadkhul almlayikat baytana fih kalb aiwtasawir ",
+        "urdu": "اس گھر ميں رحمت کے فرشتے نہيں آتے جس ميں کتا يا تصويريں ہوں",
+        "favorite":false
+
+      },
+      
+      {
+        "index": 31,
+        "arabic":  " كُنْ فِى الدُّنْيَا كَاَنَّكَ غَرِيْبٌ اَوْ عَابِرُ سَبِيْلٍ",
+        "english": "Be in this world as a stranger or a passerby",
+        "spanish": "kun fia alddunya kaannak gharib aaw eabir sabil",
+        "urdu": "دنيا ميں ايسے رہو جيسے کؤئ مسافر يا رہگذر رہتا ہے",
+        "favorite":false
+      },
+     
+    
+     
+     
+      {
+        "index": 32,
+        "arabic":  " اَشَدُّ النَّاسِ عَذَابًا يَّوْمَ الْقِيَمَةِ الْمُصَوِّرُوْنَ",
+        "english": "The most oppressive people on the day of value photographers",
+        "spanish": "isada nass azab yom qeyama mosavoroon",
+        "urdu": "سب سے سخت عذاب ميں قيامت کے روز تصوير بنانے والے ہوں گے",
+        "favorite":false
+      },
+     
+     
+    
+    
+      {
+        "index": 33,
+        "arabic":  " لَا يَدْخُلُ الْجَنَّةَ مَنْ لَّا يَاْ مَنُ جِا رُهُ بَوَاءِ قَهُ",
+        "english": "How disturbed neighbor will not enter paradise",
+        "spanish": "la yadkhul aljannat man lla ya man jia ruh bawa' qah",
+        "urdu": "وہ شخص جنت ميں نہ جاۓ گا جس کا پڑوسی اس کی ايذاؤں سے محفوظنہ رہے",
+        "favorite":false
+      },
+      {
+        "index": 34,
+        "arabic": " اَلْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُوْنَ مِنْ لِسَانِهِ وَ يَدِه",
+        "english": "A Muslim from the Muslim ladder of his tongue and his hand",
+        "spanish": "aalmuslim man salim almuslimun min lisanih w yadih",
+        "urdu": "مسلمان تو وہ ہی ہےجس کی زبان اور ہاتھ کی ايذا سے مسلمان محفوظ رہيں",   
+        "favorite":false
+
+      },
+    
+      {
+        "index": 35,
+        "arabic":  " مَنْ صَلَّى عَلَىَّ وَاحِدَةً صَلَّى اللهُ عَلَيْهِ عَشْرًا",
+        "english": "Whoever prays one time on muhammad (PBUH) allah prays him 10 times",
+        "spanish": "man salla ealayy wahidatan salla allh ealayh eashrana",
+        "urdu": "جو محمد (صلی عليہ وسلم)  پر ايک مرتبہ درود بيھجتا ہے۔ اللھ تعالی پر دس مرتبہ رحمت بيھجتا ہے",
+        "favorite":false
+      },
+      {
+        "index": 36,
+        "arabic":  " لَا يَحِلُّ لِمُؤْمِنٍ اَنْ يَّهْجُرَ اَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ",
+        "english": "It is not permissible for a believer to abandon his brother over three nights",
+        "spanish": "la yahill limumin aan yahjur aakhah fawq thalath layal",
+        "urdu": "مسلمان کے ليے حلال نہيں کہ تين دن سے زيادہ اپنے مسلمان بھائ سے قطع تعلق رکھتے",
+        "favorite":false
+      },
+      {
+        "index": 37,
+        "arabic":  " لَا يُؤْمِنُ عَبْدٌ حَتَّئ يُحِبَّ لِاَخِيْهِ مَا يُحِبُّ لِنَفْسِهِ",
+        "english": "It is not permissible for a believer to abandon his brother over three nights",
+        "spanish": "la yahill limumin aan yahjur aakhah fawq thalath layal",
+        "urdu": "کوئی بندہ اس وقت تک پورا مسلمان نہيں ہو سکتا جب تک اپنے بھائ کے ليے وہی پسند نہ کرے جو اپنے ليے پسند کرے",
+        "favorite":false
+      },
+     
+  
+      {
+        "index": 38,
+        "arabic":  " قَدْ اَفْلَحَ مَنْ اَسْلَمَـ وَ رُزِقَ كَفَا فًا وَّ قَنَّعَهُ اللهُ بِمَا أَتَاهُ",
+        "english": "I have succeeded from the safest and the livelihood of Kafka, and Allah has convinced him of what he has brought",
+        "spanish": "qad aaflah man aaslama w ruziq kafa fana ww qannaeah allh bima 'atah",
+        "urdu": "وہ شخص کامياب ہےجواسلام لايا اور جس کو بقدرکفايت رزق ملے۔ اور اللہ تعالۓ نے اس کواپنی روزی پر قناعت دے دی",
+        "favorite":false
+      },
+      {
+        "index": 39,
+        "arabic":  " لًيْسَ الشَّدِيْدُ بِالصُّرْعَةِ اِنَّمَا الشَّدِيْدُ الَّذِى يَمْلِكُ نَفْسَهُ عِنْدالْغَضَب",
+        "english": "He is not very strong, but he is strong, who has himself in anger",
+        "spanish": "lanys alshshadid bialssureat ainnama alshshadid alladhia yamlik nafsah eindalghadab",
+        "urdu": "پہلوان وہ نہی جو لوگوں کو پچھاڑ دے بلکہ پہلوان وہی ہے جو غصہ کے وقت اپنے نفس پر قابو رکھے",
+        "favorite":false
+
+      },
+     
+      {
+        "index": 40,
+        "arabic":  " اَلْكَبَاأِرُاَلْاِشْرَاكُ بِاللهِ وَعُقُوْقُ الْوَالِدَيْنٍ وَقَتْلُ النَّفْسِ وَ شَهَادَةُ الزُّوْرِ",
+        "english": "Alkbaaralrak Allah and disobedience parents and killing self and perjury",
+        "spanish": "aalkabaairuaalaishrak biallh waeuquq alwalidayn waqatl alnnafs w shahadat alzzur",
+        "urdu": "کبيرہ گناہ اللہ تعالی کے ساتھ کسی کو شريک ٹھرانا اور والدين کی نافرمانی کرنا اور کسی کو بے گناہ قتل کرنا اور جھوٹی شہادت دينا ہے",
+        
+        "favorite":false
+      }
+    
+
+      
+    ]
+  }
+]
+}
