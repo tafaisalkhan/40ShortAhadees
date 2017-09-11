@@ -5,12 +5,7 @@ import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
 import { AdMobFree, AdMobFreeBannerConfig } from '@ionic-native/admob-free';
 import { Storage } from '@ionic/storage';
 import { SocialSharing } from '@ionic-native/social-sharing';
-/**
- * Generated class for the DuaListComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 const  options = {
   //ios
   //adId: 'ca-app-pub-6025676747290907~5163018690',
@@ -142,7 +137,6 @@ loadDua(){
 
   unFavorite(index){
     console.log(index);
-    //this.isFavorite = false;
     var item = this.ahadeesListArray.filter(item => item.index == index);
     item[0].favorite = false;
     this.storage.set('ahadeesList', this.ahadeesListArray);
@@ -151,7 +145,6 @@ loadDua(){
 
   favorite(index){
     console.log(index);
-    //this.isFavorite = true;
     var item = this.ahadeesListArray.filter(item => item.index == index);
     item[0].favorite = true;
     this.storage.set('ahadeesList', this.ahadeesListArray);

@@ -9,12 +9,7 @@ import { DuaServiceProvider } from '../../providers/dua-service/dua-service';
 import { DuaConstantProvider } from '../../providers/dua-constant/dua-constant';
 
 
-/**
- * Generated class for the FavoriteComponent component.
- *
- * See https://angular.io/docs/ts/latest/api/core/index/ComponentMetadata-class.html
- * for more info on Angular Components.
- */
+
 @Component({
   selector: 'favorite',
   templateUrl: 'favorite.html'
@@ -32,17 +27,13 @@ export class FavoriteComponent {
    
   constructor(public navCtrl: NavController, private duaServiceProvider: DuaServiceProvider, private storage: Storage, private duaConstantProvider: DuaConstantProvider, private socialSharing: SocialSharing ) {
     this.loadDua();
-    
-    
-  
+
   }
 
 
 
 loadDua(){
-  //check for local storage
-
-  
+ 
     this.platform = this.duaConstantProvider.device;
  
     this.storage.get('sizeStore').then((val) => {
@@ -89,8 +80,6 @@ loadDua(){
   }
 
   unFavorite(index){
-    console.log(index);
-    //this.isFavorite = false;
     var item = this.ahadeesListArrayAll .filter(item => item.index == index);
     item[0].favorite = false;
     this.storage.set('ahadeesList', this.ahadeesListArrayAll );
@@ -99,8 +88,6 @@ loadDua(){
   }
 
   favorite(index){
-    console.log(index);
-    //this.isFavorite = true;
     var item = this.ahadeesListArrayAll .filter(item => item.index == index);
     item[0].favorite = true;
     this.storage.set('ahadeesList', this.ahadeesListArrayAll );
@@ -109,7 +96,6 @@ loadDua(){
    
   }
   shareDUA(index){
-    console.log(index);
     var item = this.ahadeesListArrayAll .filter(item => item.index == index);
     if(this.translationStore=="urdu"){
       this.socialSharing.share(  item[0].arabic + "  " + item[0].urdu, "Ahadees " + item[0].urdu  , null); 
